@@ -7,7 +7,6 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Postgresql](https://img.shields.io/static/v1?label=&message=Postresql&color=090909&style=for-the-badge&logo=postgresql&logoColor=47C5FB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Sqlite](https://img.shields.io/static/v1?label=&message=sqlite&color=090909&style=for-the-badge&logo=sqlite&logoColor=47C5FB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 
