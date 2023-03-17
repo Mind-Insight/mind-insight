@@ -1,5 +1,11 @@
 ## Hi everyone! I'm a beginner web developer!
 
+<picture>
+  <source
+    scrset="https://github-readme-stats.vercel.app/api?username=Mind-Insight&show_icons=true&theme=radical"
+  />
+</picture>
+
 ![Header](https://github.com/Mind-Insight/mind-insight/blob/main/github-contribution-grid-snake.svg)
 
 
@@ -17,4 +23,3 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mind-Insight&show_icons=true&theme=radical)
