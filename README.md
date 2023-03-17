@@ -1,6 +1,6 @@
 ## Hi everyone! I'm a beginner web developer!
 
-
+![Header](https://github.com/Mind-Insight/mind-insight/blob/main/github-contribution-grid-snake.svg)
 
 
 ### Languages and tools
