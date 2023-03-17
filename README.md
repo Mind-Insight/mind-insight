@@ -1,9 +1,10 @@
 ## Hi everyone! I'm a beginner web developer!
 
 <picture>
-  <source
-    scrset="https://github-readme-stats.vercel.app/api?username=Mind-Insight&show_icons=true&theme=radical"
-  />
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Mind-Insight&show_icons=true&theme=radical"
+  media="(prefers-color-scheme: dark)"
+/>
 </picture>
 
 ![Header](https://github.com/Mind-Insight/mind-insight/blob/main/github-contribution-grid-snake.svg)
