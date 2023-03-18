@@ -1,7 +1,7 @@
 ## Hi everyone! I'm a beginner web developer!
 
 
-![Header](https://github.com/Mind-Insight/mind-insight/blob/main/8OpY.gif)
+![Header](https://github.com/Mind-Insight/mind-insight/blob/main/ekljgwe.gif)
 
 
 ### Languages and tools
