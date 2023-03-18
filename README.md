@@ -1,7 +1,7 @@
 ## Hi everyone! I'm a beginner web developer!
 
 
-![Header](https://github.com/Mind-Insight/mind-insight/blob/main/загруженное.mp4)
+![Header](http://www.bryanheemskerk.com/wp-content/uploads/2017/04/deadgiantfieldfinal.gif)
 
 
 ### Languages and tools
