@@ -29,7 +29,7 @@
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px;">
   <a href="#">
-    <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mind-Insight&show_icons=true&theme=radical)" alt="Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mind-Insight&show_icons=true&theme=radical" alt="Stats">
   </a>
   <a href="#">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mind-Insight&theme=radical" alt="Top Languages">
