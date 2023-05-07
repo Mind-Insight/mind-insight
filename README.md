@@ -13,6 +13,9 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
 
 ### IDEs
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -21,3 +24,14 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mind-Insight&show_icons=true&theme=radical)
 
 ![Top languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mind-Insight&theme=radical)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mind-Insight&theme=radical)
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px;">
+  <a href="#">
+    <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mind-Insight&show_icons=true&theme=radical)" alt="Stats">
+  </a>
+  <a href="#">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mind-Insight&theme=radical" alt="Top Languages">
+  </a>
+</div>
