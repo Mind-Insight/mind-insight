@@ -23,11 +23,11 @@
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px;">
   <a href="#">
-    <img src="https://https://mind-insight-7lpu.vercel.app/api?username=Mind-Insight&show_icons=true&theme=radical" alt="Stats">
+    <img src="https://mind-insight-7lpu.vercel.app/api?username=Mind-Insight&show_icons=true&theme=radical" alt="Stats">
   </a>
   <a href="#">
-    <img src="http://https://mind-insight-7lpu.vercel.app/api/cards/repos-per-language?username=Mind-Insight&theme=radical" alt="Top Languages">
+    <img src="https://mind-insight-7lpu.vercel.app/api/cards/repos-per-language?username=Mind-Insight&theme=radical" alt="Top Languages">
   </a>
 </div>
 
-![](http://https://mind-insight-7lpu.vercel.app/api/cards/profile-details?username=Mind-Insight&theme=radical)
+![](https://mind-insight-7lpu.vercel.app/api/cards/profile-details?username=Mind-Insight&theme=radical)
