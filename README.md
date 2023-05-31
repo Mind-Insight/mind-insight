@@ -1,7 +1,7 @@
 # *When you feel like giving up, remember why you held on for so long in the first place*
 
 
-![Header](8264428.gif)
+![Header](8351321.gif)
 
 
 ### Languages and tools
