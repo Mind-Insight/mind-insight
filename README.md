@@ -1,7 +1,7 @@
 # *When you feel like giving up, remember why you held on for so long in the first place*
 
 
-![Header](http://www.bryanheemskerk.com/wp-content/uploads/2017/04/deadgiantfieldfinal.gif)
+![Header](8264428.gif)
 
 
 ### Languages and tools
