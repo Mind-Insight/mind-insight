@@ -35,3 +35,8 @@
 </div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mind-Insight&theme=radical)
+
+ ## Profile View Counter
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=Mind-Insight)
+ ### Repository View Counter - HITS
+ ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Mind-Insight/Python)
